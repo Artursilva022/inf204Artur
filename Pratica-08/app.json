@@ -1,0 +1,3 @@
+{
+  "expo": { "name": "Agenda - Pratica 08", "slug": "agenda-pratica-08", "version": "1.0.0", "orientation": "portrait", "plugins": ["expo-sqlite"] }
+}
